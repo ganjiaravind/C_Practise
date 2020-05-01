@@ -1,2 +1,5 @@
 Pointer_P1.c:- contains basic c program to print the address of a variable,
 		reference from C in depth Book program P9.1 example code
+
+Pointer_P1.c:- contains Dereferecing pointer varaiable
+		reference from C in depth Book program P9.2 example code
