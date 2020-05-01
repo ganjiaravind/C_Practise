@@ -3,3 +3,7 @@ Pointer_P1.c:- contains basic c program to print the address of a variable,
 
 Pointer_P2.c:- contains Dereferecing pointer varaiable
 		reference from C in depth Book program P9.2 example code
+Pointer_P3.c:- prints sizeof pointer variable and sizeof values derefernced by them
+		reference from C in depth Book program P9.3 example code
+Pointer_P4.c:- contains Pointer arithmetic
+		reference from C in depth Book program P9.4 example code
